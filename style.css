@@ -11,3 +11,27 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background: var(--primary-color);
+  color: #fff;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+ul {
+  list-style: none;
+}
